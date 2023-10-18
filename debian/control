@@ -7,7 +7,6 @@ Uploaders: Yadd <yadd@debian.org>,
            Thorsten Alteholz <debian@alteholz.de>
 Build-Depends:
  debhelper-compat (= 13),
- nodejs,
  mime-support,
  node-mime,
  mocha <!nocheck>,
